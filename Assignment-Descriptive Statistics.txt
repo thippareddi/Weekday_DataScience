@@ -1,0 +1,6 @@
+https://tinyurl.com/Mrinal-GH
+
+Work_Yrs = Histograms, FP & Ogive (More/less-than)
+
+gmat_tpc = Descriptive stats (mean, median, mode, Variance, SD and .25.75 and IQR)
+
